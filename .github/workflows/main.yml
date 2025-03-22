@@ -1,0 +1,33 @@
+name: Scrape Twitter Tweets
+
+on:
+  workflow_dispatch:
+    inputs:
+      keyword:
+        description: '検索キーワード'
+        required: true
+        default: 'ナードコア'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Run scraping script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SEARCH_KEYWORD: ${{ github.event.inputs.keyword }}
+        run: python scrape.py
