@@ -4,32 +4,69 @@
   <meta charset="UTF-8">
   <title>プロフィールサイト</title>
   <style>
-    /* ページ全体を中央に配置 */
+    /* 背景画像を設定 */
     body {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
       margin: 0;
-      background-color: #f0f0f0;
+      height: 100vh;
+      position: relative;
+      background: url("https://i.pinimg.com/736x/6a/79/3a/6a793a3d74f5115b1c85844ab3a1d057.jpg") center/cover no-repeat;
+      overflow: hidden;
+    }
+    /* 虹色グラデーションのオーバーレイ */
+    body::before {
+      content: "";
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet);
+      background-size: 400%;
+      opacity: 0.3;
+      animation: rainbow 10s linear infinite;
+      z-index: 1;
+    }
+    @keyframes rainbow {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+    /* コンテンツ部分 */
+    .container {
+      position: relative;
+      z-index: 2;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
     }
     /* プロフィールアイコンのスタイル */
     .profile-icon {
-      width: 128px;  /* アイコンの横幅 */
-      height: 128px; /* アイコンの高さ */
-      border-radius: 50%; /* 丸くする */
-      overflow: hidden; /* 丸からはみ出す部分を隠す */
+      width: 128px;
+      height: 128px;
+      border-radius: 50%;
+      overflow: hidden;
     }
     .profile-icon img {
       width: 100%;
       height: 100%;
-      object-fit: cover; /* 画像を切り抜き表示 */
+      object-fit: cover;
+    }
+    /* 下部の文字：明朝体 */
+    .name {
+      margin-top: 20px;
+      font-size: 24px;
+      /* 利用可能な明朝体フォントの例 */
+      font-family: "MS Mincho", "Hiragino Mincho Pro", serif;
+      color: #fff;
+      text-shadow: 1px 1px 2px rgba(0,0,0,0.6);
     }
   </style>
 </head>
 <body>
-  <div class="profile-icon">
-    <img src="https://i.pinimg.com/736x/6c/ef/fb/6ceffb9310699f63aa4cfe58b67bf2dc.jpg" alt="プロフィールアイコン">
+  <div class="container">
+    <div class="profile-icon">
+      <img src="https://i.pinimg.com/736x/6c/ef/fb/6ceffb9310699f63aa4cfe58b67bf2dc.jpg" alt="プロフィールアイコン">
+    </div>
+    <div class="name">衛門</div>
   </div>
 </body>
 </html>
