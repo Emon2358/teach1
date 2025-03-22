@@ -1,0 +1,960 @@
+Account: 
+URL: https://x.com/SUNDAY_FLICKERS?utm_source=yjrealtime&utm_medium=search
+Tweet: 7時台は、
+----
+Account: @SUNDAY_FLICKERS
+URL: https://x.com/SUNDAY_FLICKERS?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1903333571680669865&utm_source=yjrealtime&utm_medium=search
+Tweet: 2
+----
+Account: 2
+URL: https://x.com/intent/retweet?tweet_id=1903333571680669865&utm_source=yjrealtime&utm_medium=search
+Tweet: 2
+----
+Account: 8
+URL: https://x.com/intent/like?tweet_id=1903333571680669865&utm_source=yjrealtime&utm_medium=search
+Tweet: 8
+----
+Account: 11分前
+URL: https://x.com/SUNDAY_FLICKERS/status/1903333571680669865?utm_source=yjrealtime&utm_medium=search
+Tweet: 11分前
+----
+Account: 
+URL: https://x.com/eipocohc_ns?utm_source=yjrealtime&utm_medium=search
+Tweet: ナードコア
+----
+Account: @eipocohc_ns
+URL: https://x.com/eipocohc_ns?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1903315039463018744&utm_source=yjrealtime&utm_medium=search
+Tweet: 14:17
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1903315039463018744&utm_source=yjrealtime&utm_medium=search
+Tweet: 14:17
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1903315039463018744&utm_source=yjrealtime&utm_medium=search
+Tweet: 14:17
+----
+Account: 14:17
+URL: https://x.com/eipocohc_ns/status/1903315039463018744?utm_source=yjrealtime&utm_medium=search
+Tweet: 14:17
+----
+Account: 
+URL: https://x.com/Yoshikiyo2023?utm_source=yjrealtime&utm_medium=search
+Tweet: 昔の
+----
+Account: @Yoshikiyo2023
+URL: https://x.com/Yoshikiyo2023?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1903273364745290153&utm_source=yjrealtime&utm_medium=search
+Tweet: 11:31
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1903273364745290153&utm_source=yjrealtime&utm_medium=search
+Tweet: 11:31
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1903273364745290153&utm_source=yjrealtime&utm_medium=search
+Tweet: 11:31
+----
+Account: 11:31
+URL: https://x.com/Yoshikiyo2023/status/1903273364745290153?utm_source=yjrealtime&utm_medium=search
+Tweet: 11:31
+----
+Account: 
+URL: https://x.com/Gassyoh?utm_source=yjrealtime&utm_medium=search
+Tweet: youtube.com/watch?v=uH5p2N…
+----
+Account: @Gassyoh
+URL: https://x.com/Gassyoh?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1903100915714052445&utm_source=yjrealtime&utm_medium=search
+Tweet: 0:06
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1903100915714052445&utm_source=yjrealtime&utm_medium=search
+Tweet: 0:06
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1903100915714052445&utm_source=yjrealtime&utm_medium=search
+Tweet: 0:06
+----
+Account: 0:06
+URL: https://x.com/Gassyoh/status/1903100915714052445?utm_source=yjrealtime&utm_medium=search
+Tweet: 0:06
+----
+Account: 
+URL: https://x.com/kdraw_itchy3?utm_source=yjrealtime&utm_medium=search
+Tweet: どうやら3rd anniversaryらしいです。お世話になっている皆さん、いつもありがとうございます。 今後も栃木県宇都宮市の
+----
+Account: @kdraw_itchy3
+URL: https://x.com/kdraw_itchy3?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1903077637901390019&utm_source=yjrealtime&utm_medium=search
+Tweet: 1
+----
+Account: 1
+URL: https://x.com/intent/retweet?tweet_id=1903077637901390019&utm_source=yjrealtime&utm_medium=search
+Tweet: 1
+----
+Account: 1
+URL: https://x.com/intent/like?tweet_id=1903077637901390019&utm_source=yjrealtime&utm_medium=search
+Tweet: 1
+----
+Account: 昨日 22:34
+URL: https://x.com/kdraw_itchy3/status/1903077637901390019?utm_source=yjrealtime&utm_medium=search
+Tweet: 昨日 22:34
+----
+Account: 
+URL: https://x.com/SpdCr_Runa_C?utm_source=yjrealtime&utm_medium=search
+Tweet: やっぱり誰にも元ネタ伝わらない
+----
+Account: @SpdCr_Runa_C
+URL: https://x.com/SpdCr_Runa_C?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1902979827709382821&utm_source=yjrealtime&utm_medium=search
+Tweet: 昨日 16:05
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1902979827709382821&utm_source=yjrealtime&utm_medium=search
+Tweet: 昨日 16:05
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1902979827709382821&utm_source=yjrealtime&utm_medium=search
+Tweet: 昨日 16:05
+----
+Account: 昨日 16:05
+URL: https://x.com/SpdCr_Runa_C/status/1902979827709382821?utm_source=yjrealtime&utm_medium=search
+Tweet: 昨日 16:05
+----
+Account: 
+URL: https://x.com/louloo6969?utm_source=yjrealtime&utm_medium=search
+Tweet: やるかー、
+----
+Account: @louloo6969
+URL: https://x.com/louloo6969?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1902725533009625448&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月20日(木) 23:14
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1902725533009625448&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月20日(木) 23:14
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1902725533009625448&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月20日(木) 23:14
+----
+Account: 3月20日(木) 23:14
+URL: https://x.com/louloo6969/status/1902725533009625448?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月20日(木) 23:14
+----
+Account: 
+URL: https://x.com/subetabaita?utm_source=yjrealtime&utm_medium=search
+Tweet: ナードコア
+----
+Account: @subetabaita
+URL: https://x.com/subetabaita?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1902638424466845798&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月20日(木) 17:28
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1902638424466845798&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月20日(木) 17:28
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1902638424466845798&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月20日(木) 17:28
+----
+Account: 3月20日(木) 17:28
+URL: https://x.com/subetabaita/status/1902638424466845798?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月20日(木) 17:28
+----
+Account: 
+URL: https://x.com/esuf11?utm_source=yjrealtime&utm_medium=search
+Tweet: DJヒイロユイ先輩のサグ方面の
+----
+Account: @esuf11
+URL: https://x.com/esuf11?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1902630652656435269&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月20日(木) 16:57
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1902630652656435269&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月20日(木) 16:57
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1902630652656435269&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月20日(木) 16:57
+----
+Account: 3月20日(木) 16:57
+URL: https://x.com/esuf11/status/1902630652656435269?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月20日(木) 16:57
+----
+Account: 
+URL: https://x.com/HRKZ_PT?utm_source=yjrealtime&utm_medium=search
+Tweet: ナードコア
+----
+Account: @HRKZ_PT
+URL: https://x.com/HRKZ_PT?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1902627965235613733&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月20日(木) 16:47
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1902627965235613733&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月20日(木) 16:47
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1902627965235613733&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月20日(木) 16:47
+----
+Account: 3月20日(木) 16:47
+URL: https://x.com/HRKZ_PT/status/1902627965235613733?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月20日(木) 16:47
+----
+Account: 
+URL: https://x.com/ruefes2025?utm_source=yjrealtime&utm_medium=search
+Tweet: 『NERDCOREST(
+----
+Account: @ruefes2025
+URL: https://x.com/ruefes2025?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 1
+URL: https://x.com/intent/tweet?in_reply_to=1902562154156605456&utm_source=yjrealtime&utm_medium=search
+Tweet: 1
+----
+Account: 11
+URL: https://x.com/intent/retweet?tweet_id=1902562154156605456&utm_source=yjrealtime&utm_medium=search
+Tweet: 11
+----
+Account: 30
+URL: https://x.com/intent/like?tweet_id=1902562154156605456&utm_source=yjrealtime&utm_medium=search
+Tweet: 30
+----
+Account: 3月20日(木) 12:25
+URL: https://x.com/ruefes2025/status/1902562154156605456?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月20日(木) 12:25
+----
+Account: 
+URL: https://x.com/pic_zizi_manji?utm_source=yjrealtime&utm_medium=search
+Tweet: 返信先:
+----
+Account: @pic_zizi_manji
+URL: https://x.com/pic_zizi_manji?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1902364135037530588&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月19日(水) 23:18
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1902364135037530588&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月19日(水) 23:18
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1902364135037530588&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月19日(水) 23:18
+----
+Account: 3月19日(水) 23:18
+URL: https://x.com/pic_zizi_manji/status/1902364135037530588?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月19日(水) 23:18
+----
+Account: 
+URL: https://x.com/pic_zizi_manji?utm_source=yjrealtime&utm_medium=search
+Tweet: 返信先:
+----
+Account: @pic_zizi_manji
+URL: https://x.com/pic_zizi_manji?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1902362089215422898&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月19日(水) 23:10
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1902362089215422898&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月19日(水) 23:10
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1902362089215422898&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月19日(水) 23:10
+----
+Account: 3月19日(水) 23:10
+URL: https://x.com/pic_zizi_manji/status/1902362089215422898?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月19日(水) 23:10
+----
+Account: 
+URL: https://x.com/eipocohc_ns?utm_source=yjrealtime&utm_medium=search
+Tweet: 善の
+----
+Account: @eipocohc_ns
+URL: https://x.com/eipocohc_ns?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1902301586002735168&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月19日(水) 19:10
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1902301586002735168&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月19日(水) 19:10
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1902301586002735168&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月19日(水) 19:10
+----
+Account: 3月19日(水) 19:10
+URL: https://x.com/eipocohc_ns/status/1902301586002735168?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月19日(水) 19:10
+----
+Account: 
+URL: https://x.com/eipocohc_ns?utm_source=yjrealtime&utm_medium=search
+Tweet: 最高
+----
+Account: @eipocohc_ns
+URL: https://x.com/eipocohc_ns?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1902243810907652252&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月19日(水) 15:20
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1902243810907652252&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月19日(水) 15:20
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1902243810907652252&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月19日(水) 15:20
+----
+Account: 3月19日(水) 15:20
+URL: https://x.com/eipocohc_ns/status/1902243810907652252?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月19日(水) 15:20
+----
+Account: 
+URL: https://x.com/watazakana?utm_source=yjrealtime&utm_medium=search
+Tweet: 返信先:
+----
+Account: @watazakana
+URL: https://x.com/watazakana?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1902198219289002455&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月19日(水) 12:19
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1902198219289002455&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月19日(水) 12:19
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1902198219289002455&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月19日(水) 12:19
+----
+Account: 3月19日(水) 12:19
+URL: https://x.com/watazakana/status/1902198219289002455?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月19日(水) 12:19
+----
+Account: 
+URL: https://x.com/shark_samegawa?utm_source=yjrealtime&utm_medium=search
+Tweet: ナードコア
+----
+Account: @shark_samegawa
+URL: https://x.com/shark_samegawa?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1902034443688439978&utm_source=yjrealtime&utm_medium=search
+Tweet: 2
+----
+Account: 2
+URL: https://x.com/intent/retweet?tweet_id=1902034443688439978&utm_source=yjrealtime&utm_medium=search
+Tweet: 2
+----
+Account: 3
+URL: https://x.com/intent/like?tweet_id=1902034443688439978&utm_source=yjrealtime&utm_medium=search
+Tweet: 3
+----
+Account: 3月19日(水) 1:28
+URL: https://x.com/shark_samegawa/status/1902034443688439978?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月19日(水) 1:28
+----
+Account: 
+URL: https://x.com/g9g9q?utm_source=yjrealtime&utm_medium=search
+Tweet: 音MADと
+----
+Account: @g9g9q
+URL: https://x.com/g9g9q?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1901976040546983999&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月18日(火) 21:36
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1901976040546983999&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月18日(火) 21:36
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1901976040546983999&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月18日(火) 21:36
+----
+Account: 3月18日(火) 21:36
+URL: https://x.com/g9g9q/status/1901976040546983999?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月18日(火) 21:36
+----
+Account: 
+URL: https://x.com/fridedaychicken?utm_source=yjrealtime&utm_medium=search
+Tweet: J-pop好き、スキマスイッチが。 ビートボックス好き、AFRAが。
+----
+Account: @fridedaychicken
+URL: https://x.com/fridedaychicken?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1901937269457531286&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月18日(火) 19:02
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1901937269457531286&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月18日(火) 19:02
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1901937269457531286&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月18日(火) 19:02
+----
+Account: 3月18日(火) 19:02
+URL: https://x.com/fridedaychicken/status/1901937269457531286?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月18日(火) 19:02
+----
+Account: 
+URL: https://x.com/mandokoro?utm_source=yjrealtime&utm_medium=search
+Tweet: 本日、夜20時より！ 定例配信ピクはみです。  前回は
+----
+Account: @mandokoro
+URL: https://x.com/mandokoro?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1901771733956464674&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月18日(火) 8:04
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1901771733956464674&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月18日(火) 8:04
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1901771733956464674&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月18日(火) 8:04
+----
+Account: 3月18日(火) 8:04
+URL: https://x.com/mandokoro/status/1901771733956464674?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月18日(火) 8:04
+----
+Account: 
+URL: https://x.com/DJHeeroYuy_info?utm_source=yjrealtime&utm_medium=search
+Tweet: 日本の皆さん、こんばんは😃 DJヒイロユイスタッフinfoです📣  STARBURST STREAM
+----
+Account: @DJHeeroYuy_info
+URL: https://x.com/DJHeeroYuy_info?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 1
+URL: https://x.com/intent/tweet?in_reply_to=1901609622571782195&utm_source=yjrealtime&utm_medium=search
+Tweet: 1
+----
+Account: 19
+URL: https://x.com/intent/retweet?tweet_id=1901609622571782195&utm_source=yjrealtime&utm_medium=search
+Tweet: 19
+----
+Account: 27
+URL: https://x.com/intent/like?tweet_id=1901609622571782195&utm_source=yjrealtime&utm_medium=search
+Tweet: 27
+----
+Account: 3月17日(月) 21:20
+URL: https://x.com/DJHeeroYuy_info/status/1901609622571782195?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月17日(月) 21:20
+----
+Account: 
+URL: https://x.com/eipocohc_ns?utm_source=yjrealtime&utm_medium=search
+Tweet: ナードコア
+----
+Account: @eipocohc_ns
+URL: https://x.com/eipocohc_ns?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1901547991342731380&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月17日(月) 17:15
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1901547991342731380&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月17日(月) 17:15
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1901547991342731380&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月17日(月) 17:15
+----
+Account: 3月17日(月) 17:15
+URL: https://x.com/eipocohc_ns/status/1901547991342731380?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月17日(月) 17:15
+----
+Account: 
+URL: https://x.com/xixi34410819501?utm_source=yjrealtime&utm_medium=search
+Tweet: ナードコア
+----
+Account: @xixi34410819501
+URL: https://x.com/xixi34410819501?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1901541627119988995&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月17日(月) 16:50
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1901541627119988995&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月17日(月) 16:50
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1901541627119988995&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月17日(月) 16:50
+----
+Account: 3月17日(月) 16:50
+URL: https://x.com/xixi34410819501/status/1901541627119988995?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月17日(月) 16:50
+----
+Account: 
+URL: https://x.com/yasasidobutu?utm_source=yjrealtime&utm_medium=search
+Tweet: 返信先:
+----
+Account: @yasasidobutu
+URL: https://x.com/yasasidobutu?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1901282309988311534&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月16日(日) 23:40
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1901282309988311534&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月16日(日) 23:40
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1901282309988311534&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月16日(日) 23:40
+----
+Account: 3月16日(日) 23:40
+URL: https://x.com/yasasidobutu/status/1901282309988311534?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月16日(日) 23:40
+----
+Account: 
+URL: https://x.com/xixi34410819501?utm_source=yjrealtime&utm_medium=search
+Tweet: あの高校生が精一杯で作る軽音楽も良いけど、昔のオタク達が精一杯作った
+----
+Account: @xixi34410819501
+URL: https://x.com/xixi34410819501?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1901221303430078568&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月16日(日) 19:37
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1901221303430078568&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月16日(日) 19:37
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1901221303430078568&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月16日(日) 19:37
+----
+Account: 3月16日(日) 19:37
+URL: https://x.com/xixi34410819501/status/1901221303430078568?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月16日(日) 19:37
+----
+Account: 
+URL: https://x.com/hysk_dol?utm_source=yjrealtime&utm_medium=search
+Tweet: ナードコア
+----
+Account: @hysk_dol
+URL: https://x.com/hysk_dol?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1901214090347086109&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月16日(日) 19:08
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1901214090347086109&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月16日(日) 19:08
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1901214090347086109&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月16日(日) 19:08
+----
+Account: 3月16日(日) 19:08
+URL: https://x.com/hysk_dol/status/1901214090347086109?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月16日(日) 19:08
+----
+Account: 
+URL: https://x.com/hitayu_?utm_source=yjrealtime&utm_medium=search
+Tweet: Heero yuyの
+----
+Account: @hitayu_
+URL: https://x.com/hitayu_?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1901175060817473926&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月16日(日) 16:33
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1901175060817473926&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月16日(日) 16:33
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1901175060817473926&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月16日(日) 16:33
+----
+Account: 3月16日(日) 16:33
+URL: https://x.com/hitayu_/status/1901175060817473926?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月16日(日) 16:33
+----
+Account: 
+URL: https://x.com/dat_zoyd?utm_source=yjrealtime&utm_medium=search
+Tweet: オレは落ち込んだ時には
+----
+Account: @dat_zoyd
+URL: https://x.com/dat_zoyd?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1901171643197911397&utm_source=yjrealtime&utm_medium=search
+Tweet: 5
+----
+Account: 5
+URL: https://x.com/intent/retweet?tweet_id=1901171643197911397&utm_source=yjrealtime&utm_medium=search
+Tweet: 5
+----
+Account: 31
+URL: https://x.com/intent/like?tweet_id=1901171643197911397&utm_source=yjrealtime&utm_medium=search
+Tweet: 31
+----
+Account: 3月16日(日) 16:20
+URL: https://x.com/dat_zoyd/status/1901171643197911397?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月16日(日) 16:20
+----
+Account: 
+URL: https://x.com/Ql1Ak?utm_source=yjrealtime&utm_medium=search
+Tweet: ナードコア
+----
+Account: @Ql1Ak
+URL: https://x.com/Ql1Ak?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1900982927342923897&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月16日(日) 3:50
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1900982927342923897&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月16日(日) 3:50
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1900982927342923897&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月16日(日) 3:50
+----
+Account: 3月16日(日) 3:50
+URL: https://x.com/Ql1Ak/status/1900982927342923897?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月16日(日) 3:50
+----
+Account: 
+URL: https://x.com/mogurohukuzodes?utm_source=yjrealtime&utm_medium=search
+Tweet: マイノリティ派の俺は根っからの
+----
+Account: @mogurohukuzodes
+URL: https://x.com/mogurohukuzodes?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1900920182077579327&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月15日(土) 23:41
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1900920182077579327&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月15日(土) 23:41
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1900920182077579327&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月15日(土) 23:41
+----
+Account: 3月15日(土) 23:41
+URL: https://x.com/mogurohukuzodes/status/1900920182077579327?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月15日(土) 23:41
+----
+Account: 
+URL: https://x.com/inu_dog0520?utm_source=yjrealtime&utm_medium=search
+Tweet: これは今持ってる
+----
+Account: @inu_dog0520
+URL: https://x.com/inu_dog0520?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1900821964882932165&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月15日(土) 17:10
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1900821964882932165&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月15日(土) 17:10
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1900821964882932165&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月15日(土) 17:10
+----
+Account: 3月15日(土) 17:10
+URL: https://x.com/inu_dog0520/status/1900821964882932165?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月15日(土) 17:10
+----
+Account: 
+URL: https://x.com/dat_zoyd?utm_source=yjrealtime&utm_medium=search
+Tweet: 返信先:
+----
+Account: @dat_zoyd
+URL: https://x.com/dat_zoyd?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1900695407254270250&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月15日(土) 8:47
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1900695407254270250&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月15日(土) 8:47
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1900695407254270250&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月15日(土) 8:47
+----
+Account: 3月15日(土) 8:47
+URL: https://x.com/dat_zoyd/status/1900695407254270250?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月15日(土) 8:47
+----
+Account: 
+URL: https://x.com/BUBBLE_B?utm_source=yjrealtime&utm_medium=search
+Tweet: 返信先:
+----
+Account: @BUBBLE_B
+URL: https://x.com/BUBBLE_B?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1900569889833971924&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月15日(土) 0:29
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1900569889833971924&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月15日(土) 0:29
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1900569889833971924&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月15日(土) 0:29
+----
+Account: 3月15日(土) 0:29
+URL: https://x.com/BUBBLE_B/status/1900569889833971924?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月15日(土) 0:29
+----
+Account: 
+URL: https://x.com/shark_samegawa?utm_source=yjrealtime&utm_medium=search
+Tweet: ナードコア
+----
+Account: @shark_samegawa
+URL: https://x.com/shark_samegawa?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1900549201014186394&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月14日(金) 23:06
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1900549201014186394&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月14日(金) 23:06
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1900549201014186394&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月14日(金) 23:06
+----
+Account: 3月14日(金) 23:06
+URL: https://x.com/shark_samegawa/status/1900549201014186394?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月14日(金) 23:06
+----
+Account: 
+URL: https://x.com/telepath_yukari?utm_source=yjrealtime&utm_medium=search
+Tweet: 返信先:
+----
+Account: @telepath_yukari
+URL: https://x.com/telepath_yukari?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1900207663537152414&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月14日(金) 0:29
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1900207663537152414&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月14日(金) 0:29
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1900207663537152414&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月14日(金) 0:29
+----
+Account: 3月14日(金) 0:29
+URL: https://x.com/telepath_yukari/status/1900207663537152414?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月14日(金) 0:29
+----
+Account: 
+URL: https://x.com/telepath_yukari?utm_source=yjrealtime&utm_medium=search
+Tweet: 返信先:
+----
+Account: @telepath_yukari
+URL: https://x.com/telepath_yukari?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1900204108172451999&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月14日(金) 0:15
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1900204108172451999&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月14日(金) 0:15
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1900204108172451999&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月14日(金) 0:15
+----
+Account: 3月14日(金) 0:15
+URL: https://x.com/telepath_yukari/status/1900204108172451999?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月14日(金) 0:15
+----
+Account: 
+URL: https://x.com/Virtual_chiaki?utm_source=yjrealtime&utm_medium=search
+Tweet: ナードコア
+----
+Account: @Virtual_chiaki
+URL: https://x.com/Virtual_chiaki?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1900202105702670809&utm_source=yjrealtime&utm_medium=search
+Tweet: 1
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1900202105702670809&utm_source=yjrealtime&utm_medium=search
+Tweet: 1
+----
+Account: 1
+URL: https://x.com/intent/like?tweet_id=1900202105702670809&utm_source=yjrealtime&utm_medium=search
+Tweet: 1
+----
+Account: 3月14日(金) 0:07
+URL: https://x.com/Virtual_chiaki/status/1900202105702670809?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月14日(金) 0:07
+----
+Account: 
+URL: https://x.com/emoisawes0me?utm_source=yjrealtime&utm_medium=search
+Tweet: Annihilation Time TLが来日の報せに色めき立っておりマス 親日派9 Shocks Terrorのメンバーも擁する
+----
+Account: @emoisawes0me
+URL: https://x.com/emoisawes0me?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1900196385204412537&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月13日(木) 23:44
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1900196385204412537&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月13日(木) 23:44
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1900196385204412537&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月13日(木) 23:44
+----
+Account: 3月13日(木) 23:44
+URL: https://x.com/emoisawes0me/status/1900196385204412537?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月13日(木) 23:44
+----
+Account: 
+URL: https://x.com/eipocohc_ns?utm_source=yjrealtime&utm_medium=search
+Tweet: ナードコア
+----
+Account: @eipocohc_ns
+URL: https://x.com/eipocohc_ns?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1900187837200474555&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月13日(木) 23:10
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1900187837200474555&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月13日(木) 23:10
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1900187837200474555&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月13日(木) 23:10
+----
+Account: 3月13日(木) 23:10
+URL: https://x.com/eipocohc_ns/status/1900187837200474555?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月13日(木) 23:10
+----
+Account: 
+URL: https://x.com/luchia?utm_source=yjrealtime&utm_medium=search
+Tweet: [メルカリ] 日本國民
+----
+Account: @luchia
+URL: https://x.com/luchia?utm_source=yjrealtime&utm_medium=search
+Tweet: @
+----
+Account: 
+URL: https://x.com/intent/tweet?in_reply_to=1899686835632439611&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月12日(水) 14:00
+----
+Account: 
+URL: https://x.com/intent/retweet?tweet_id=1899686835632439611&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月12日(水) 14:00
+----
+Account: 
+URL: https://x.com/intent/like?tweet_id=1899686835632439611&utm_source=yjrealtime&utm_medium=search
+Tweet: 3月12日(水) 14:00
+----
+Account: 3月12日(水) 14:00
+URL: https://x.com/luchia/status/1899686835632439611?utm_source=yjrealtime&utm_medium=search
+Tweet: 3月12日(水) 14:00
+----
