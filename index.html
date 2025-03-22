@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>プロフィールサイト</title>
+  <style>
+    /* ページ全体を中央に配置 */
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+    /* プロフィールアイコンのスタイル */
+    .profile-icon {
+      width: 128px;  /* アイコンの横幅 */
+      height: 128px; /* アイコンの高さ */
+      border-radius: 50%; /* 丸くする */
+      overflow: hidden; /* 丸からはみ出す部分を隠す */
+    }
+    .profile-icon img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover; /* 画像を切り抜き表示 */
+    }
+  </style>
+</head>
+<body>
+  <div class="profile-icon">
+    <img src="https://i.pinimg.com/736x/6c/ef/fb/6ceffb9310699f63aa4cfe58b67bf2dc.jpg" alt="プロフィールアイコン">
+  </div>
+</body>
+</html>
